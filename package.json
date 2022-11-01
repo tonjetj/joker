@@ -25,7 +25,8 @@
   "homepage": "https://github.com/tonjetj/joker#readme",
   "dependencies": {
     "build": "^0.1.4",
-    "dist": "^0.1.2"
+    "dist": "^0.1.2",
+    "give-me-a-joke": "^0.5.0"
   },
   "devDependencies": {
     "prettier": "^2.7.1"
